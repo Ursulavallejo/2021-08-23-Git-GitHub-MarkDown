@@ -17,7 +17,7 @@
 __Tjock text 2 med  underscore__  
 
 *kursiv text*  
--kursiv text_  
+_kursiv text_  
 
 _**Tjock och kursiv text**_  
 __*Tjock och kursiv text*__  
