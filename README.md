@@ -90,7 +90,7 @@ Ladda ner filen[här][1] då vi inte har den själva.
 
 ## Länk till annan fil
 
-[Ny sida om mig](om_mig.md)
+[Ny sida om mig](Om_mig.md)
 
 
 
