@@ -23,9 +23,9 @@ _**Tjock och kursiv text**_
 __*Tjock och kursiv text*__  
 *__Tjock och kursiv text__*  
 
-hej _**Tjock och kursiv text**_ någonting
-hej __*Tjock och kursiv text*__ någonting
-hej *__Tjock och kursiv text__* någonting
+hej _**Tjock och kursiv text**_ någonting  
+hej __*Tjock och kursiv text*__ någonting  
+hej *__Tjock och kursiv text__* någonting  
 
 ~~Genomstruken~~  
 `~` kallas tilde
