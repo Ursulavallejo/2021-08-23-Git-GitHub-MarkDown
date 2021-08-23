@@ -10,3 +10,23 @@
 ## Brödtext
 
  Dagens lektion är i storleken brödtext
+
+## Emfas
+
+**Tjock text med stärna**
+
+__Tjock text 2 med  underscore__
+
+*kursiv text*
+-kursiv text_
+
+_**Tjock och kursiv text**_
+__*Tjock och kursiv text*__
+*__Tjock och kursiv text__*
+
+hej _**Tjock och kursiv text**_ någonting
+hej __*Tjock och kursiv text*__ någonting
+hej *__Tjock och kursiv text__*
+
+~~Genomstruken~~
+`~` kallas tilde
