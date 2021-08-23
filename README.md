@@ -87,3 +87,9 @@ Ladda ner filen[här][1] då vi inte har den själva.
 ### Länk till bild i vår image (img) mapp
 
 ![Steam logo](img/logo_steam.svg)
+
+## Länk till annan fil
+
+[Ny sida om mig](om_mig.md)
+
+
