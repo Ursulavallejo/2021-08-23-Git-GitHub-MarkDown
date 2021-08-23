@@ -93,3 +93,9 @@ Ladda ner filen[här][1] då vi inte har den själva.
 [Ny sida om mig](om_mig.md)
 
 
+
+## Länk med bild
+
+[![Team logo](img/logo_steam.svg)](https://www.google.com/)
+
+[![Team logo](img/logo_steam.svg)][1]
