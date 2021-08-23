@@ -59,10 +59,17 @@ hej *__Tjock och kursiv text__* någonting
 
 1. Apoteket 
   - Alvedon
-  - *Ipren*
+    - *Ipren*
 2. Ica
   - Mjölk
   - __Ägg__
 3. El giganten  
   - Extra monitor
 
+## Länkar
+
+[Länk till google.com](https://www.google.com/)
+
+Ladda ner filen[här][1] då vi inte har den själva.
+
+[1]: https://www.google.com/
