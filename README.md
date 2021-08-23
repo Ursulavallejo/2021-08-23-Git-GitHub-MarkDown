@@ -73,3 +73,17 @@ hej *__Tjock och kursiv text__* någonting
 Ladda ner filen[här][1] då vi inte har den själva.
 
 [1]: https://www.google.com/
+
+## Bilder
+
+### Länk till bild på internet
+
+![Random bild](https://miro.medium.com/max/1400/1*t_G1kZwKv0p2arQCgYG7IQ.gif)
+
+### Länk till bild i root
+
+![Tärningar](360fx360f.png)
+
+### Länk till bild i vår image (img) mapp
+
+![Steam logo](img/logo_steam.svg)
