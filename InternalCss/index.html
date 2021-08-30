@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Internal CSS</title>
+    <style>
+        h1,
+        h2 {
+            font-family: 'Arial Black';
+        }
+
+        p {
+            font-family: Arial;
+            color: cornflowerblue;
+        }
+
+        section {
+            border: 1px solid black;
+            margin-bottom: 1em;
+            padding: 1em;
+        }
+
+        section::after {
+            content: "";
+            display: table;
+            clear: both;
+        }
+
+        article {
+            float: left;
+            width: 33%;
+        }
+    </style>
+</head>
+
+<body>
+    <section>
+        <h1 style="font-family: 'Arial Black'">Internal CSS</h1>
+        <h2>Sub Header</h2>
+        <p style="font-family: Arial;">Lorem ipsum dolor sit amet consectetur adipisicing elit. Ducimus recusandae
+            beatae, ipsam dolor vitae animi voluptatem fuga reprehenderit dolorum nobis quasi nulla labore rem commodi
+            accusamus possimus dolorem, magni quos.</p>
+    </section>
+    <section>
+        <h1>Ny Titel</h1>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Earum eius aperiam fuga vitae. Sapiente et quasi
+            soluta quaerat similique excepturi facilis voluptatum. Expedita nulla similique voluptas harum beatae fuga
+            odio.</p>
+    </section>
+    <section>
+        <h1>Article</h1>
+        <article>
+            <h2>Colum 1</h2>
+            <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Illo eligendi pariatur ipsa facere
+                reprehenderit, quia laboriosam in repudiandae earum sequi distinctio molestiae. Voluptatum velit earum
+                fugiat soluta, eligendi porro nobis.</p>
+        </article>
+        <article>
+            <h2>Colum 2</h2>
+            <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Illo eligendi pariatur ipsa facere
+                reprehenderit, quia laboriosam in repudiandae earum sequi distinctio molestiae. Voluptatum velit earum
+                fugiat soluta, eligendi porro nobis.</p>
+        </article>
+        <article>
+            <h2>Colum 3</h2>
+            <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Illo eligendi pariatur ipsa facere
+                reprehenderit, quia laboriosam in repudiandae earum sequi distinctio molestiae. Voluptatum velit earum
+                fugiat soluta, eligendi porro nobis.</p>
+        </article>
+    </section>
+
+</body>
+
+</html>
